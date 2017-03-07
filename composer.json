@@ -1,0 +1,12 @@
+{
+    "name": "hbsnow/smarty-test",
+    "authors": [
+        {
+            "name": "hbsnow",
+            "email": "yuki.4uing@gmail.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "~3.1"
+    }
+}
